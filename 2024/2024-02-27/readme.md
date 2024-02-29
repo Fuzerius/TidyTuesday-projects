@@ -1,5 +1,5 @@
 # Tidy Tuesday Project #1 LEAP DAY
-Happy Leap Day! This week's data comes from the [February 29](https://en.wikipedia.org/wiki/February_29) article on Wikipedia.
+Happy Leap Day! This week's data comes from the [February 29](https://en.wikipedia.org/wiki/February_29) article on Wikipedia. The page contains events, birth, or death of the famous person that happened on February 29.
 
 ### Data Dictionary
 
